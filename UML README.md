@@ -1,4 +1,4 @@
-Remote Control for Home Appliances
+# Remote Control for Home Appliances
 Plugging Devices into Power Outlets
 
 You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
@@ -23,5 +23,4 @@ RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard pow
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-UML Class Diagram
-Lab 6 UML Diagram
+![AdapterPattern(Updated)](https://github.com/charlesEgonzaga/adapterpattern/assets/142955651/e200ef75-b224-441a-8dd1-ada29b338dc5)
