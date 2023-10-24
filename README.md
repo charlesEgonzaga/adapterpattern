@@ -23,4 +23,5 @@ RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard pow
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-https://user-images.githubusercontent.com/142371953/276514515-025d66be-cf04-41f5-9517-93e96238a54c.jpeg
+
+![276514515-025d66be-cf04-41f5-9517-93e96238a54c](https://github.com/charlesEgonzaga/adapterpattern/assets/142955651/f810a56d-c401-49be-9f30-b65d8a3fecae)
